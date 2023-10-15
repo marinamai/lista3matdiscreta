@@ -1,13 +1,10 @@
 #include <stdio.h>
 #include <math.h>
-/*1. O micrômetro (1 µm = 10^-6 m) é comumente chamado de mícron. Quantos mícrons existem em 1
-km? R:1.10^9 µm*/
 
 int main() {
     double micron, km;
     int converter;
-  
-    //para converter km em micrometros
+
     printf("        Em 1km existe 1.10^9 microns       \n");
     printf("---------------------------------------------\n");
   do{
